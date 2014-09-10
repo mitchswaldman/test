@@ -18,7 +18,6 @@ int main()
 {
     test product(3,6);
     product.multCalc();
-    product.testAdd();
 
     return 0;
 }
